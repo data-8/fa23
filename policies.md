@@ -9,7 +9,11 @@ description: >-
 # Policies
 {:.no_toc}
 
-## Table of Contents
+<h2>Policies coming soon!</h2>
+ 
+ <!-- TODO update syllabys once it is ready -->
+
+<!-- ## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -157,7 +161,7 @@ When you need help, reach out to the course staff using Ed, in office hours, and
 Finally, know that it's normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles even though many try not to show it. Even if you don't learn everything that's being covered, you'll be able to build on what you do learn, whereas if you cheat you'll have nothing to build on. You aren't expected to be perfect; it's ok not to get an A.
 
 ## A Parting Thought
-The main goal of the course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 8!
+The main goal of the course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 8! -->
 
 <script src="../assets/darkmode.js"></script>
 <script>
