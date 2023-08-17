@@ -12,7 +12,7 @@ description: Data 8 Fall 2023 Staff
   </h2>
 </div>
 
-## Instructors
+<!-- ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 
@@ -54,7 +54,7 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
-</div>
+</div> -->
 
 <script src="../assets/darkmode.js"></script>
 <script>
