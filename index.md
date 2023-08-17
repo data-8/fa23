@@ -25,8 +25,16 @@ UC Berkeley, Fall 2023
 
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}
-{% for module in mods %}
-{{ module }}
+{% assign week1mods = '' | split: '' %}
+
+{% for mod in mods %}
+  {% if mod.title == 'Week 1' %}
+    {% assign week1mods = week1mods | push: mod %}
+  {% endif %}
+{% endfor %}
+
+{% for module in week1mods %}
+  {{ module }}
 {% endfor %}
 
 
