@@ -233,8 +233,6 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.13.6-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.6-x86_64-darwin)
-      racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -271,13 +269,16 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
+  arm64-darwin-22
   universal-darwin-20
 
 DEPENDENCIES
   github-pages
+  webrick
 
 BUNDLED WITH
    2.3.14
