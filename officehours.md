@@ -17,8 +17,6 @@ If you need help during your lab section, please utilize the [lab queue](https:/
 
 ### Data 8 Fall 2023 Office Hour Calendar
 
-<!-- TODO Update calendar link -->
-
   <style>
     /* Style the container to enable rounded corners and drop shadow */
     .calendar-container {

@@ -21,7 +21,7 @@ description: >-
 
 <!-- TODO Add new extension form -->
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 SP23 Extension Request]() form (coming soon!). Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 FA23 Extension Request]() form (coming soon!). Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads.
 
 ## DSP Accommodations
 
