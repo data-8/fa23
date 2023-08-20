@@ -15,9 +15,32 @@ If you need help during your lab section, please utilize the [lab queue](https:/
 
 ## Office Hours Calendar
 
+### Data 8 Fall 2023 Office Hour Calendar
+
 <!-- TODO Update calendar link -->
 
-<!-- <iframe src="https://calendar.google.com/calendar/u/0/embed?src=c_442a2286e274ffdbda5549db4aa190dcfc0cdd6ebf8eaf559ac61ddf2de5ad76@group.calendar.google.com" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+  <style>
+    /* Style the container to enable rounded corners and drop shadow */
+    .calendar-container {
+      width: 1000px;
+      height: 800px;
+      overflow: hidden;
+      border-radius: 20px;
+      background-color: #ffffff !important;
+
+    }
+
+    /* Style the iframe */
+    .calendar-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+
+<div class="calendar-container">
+  <iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=2&ctz=America%2FLos_Angeles&title=&nbsp;&showNav=1&showDate=1&mode=WEEK&src=Y181YTMwMjkxZjJmMGJhMzQxOWIyMzdmZjVkOWYwMTA2MDQxOTZjMWZhZTc2ZWFhMWI5OWM5Y2EyZDkzMWRlYWNjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23003262"></iframe>
+</div>
 
 <script src="../assets/darkmode.js"></script>
 <script>
