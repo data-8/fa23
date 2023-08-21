@@ -102,7 +102,7 @@ There will be one alternate exam for the midterm for those with exam conflicts. 
 
 ## Grades
 
-Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth $$ (25 / 3)\% = 8.3\% $$of your grade.
+Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (25 / 3)% = 8.3% of your grade.
 
 | Activity | Grade |
 | --- | --- |
