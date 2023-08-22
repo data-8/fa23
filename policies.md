@@ -38,7 +38,7 @@ The computing platform for the course is hosted at data8.datahub.berkeley.edu. S
 ### Support
 
 <!-- TODO Add ed link -->
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org) (coming soon!). We will also [hold in-person and virtual office hours](https://www.data8.org/fa23/officehours) that offer drop-in help on assignments and course material.
+You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/44018/). We will also [hold in-person and virtual office hours](https://www.data8.org/fa23/officehours) that offer drop-in help on assignments and course material.
 
 Your lab TA will be your main point of contact for all course related questions/grade clarifications. The TAs are here to support you so please lean on your lab TA if you need more support in the class or have any questions/concerns.
 
