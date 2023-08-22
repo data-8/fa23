@@ -33,10 +33,10 @@ aux_links:
     - 'https://www.data8.org/fa23/officehours/'
   Textbook:
     - 'https://inferentialthinking.com/chapters/intro.html'
-
-  # TODO - add Ed link
   Ed:
-    - 'https://edstem.org/us/courses/'
+    - 'https://edstem.org/us/courses/44018/'
+  Feedback Form:
+    - 'https://forms.gle/gHhrqEGCGE1S4N1r5'
 
 # External navigation links
 # nav_external_links:
