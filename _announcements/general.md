@@ -5,7 +5,7 @@ date: 2023-8-16
 ---
 
 * Welcome to Data 8!
-* We will make edits to this website as soon as possible
-* Check back soon for more pages!
+* See you in lecture on Wednesday and Friday
+* Don't forget to attend your first Lab section!
 
 {: .fs-5 }
