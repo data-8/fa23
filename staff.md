@@ -6,13 +6,7 @@ description: Data 8 Fall 2023 Staff
 
 # Staff
 
-<div class="alert alert-block alert-info">
-  <h2>
-    Page coming soon!
-  </h2>
-</div>
-
-<!-- ## Instructors
+## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 
@@ -26,7 +20,7 @@ description: Data 8 Fall 2023 Staff
 
 _All office hours are held in-person in Warren 101 unless otherwise specified_
 
-{% assign leads = site.staffers | where: 'role', 'Lead GSI' %}
+{% assign leads = site.staffers | where: 'role', '20-hour Lead uGSI (UCS2)' %}
 
 <div class="role flex">
 {% for staffer in leads %}
@@ -38,7 +32,7 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 
 _All office hours are held in-person in Warren 101 unless otherwise specified_
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'GSI' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'uGSI (UCS2)' %}
 
 <div class="role flex">
 {% for staffer in teaching_assistants %}
@@ -48,13 +42,13 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 
 ## Tutors
 
-{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
+{% assign tutors = site.staffers | where: 'role', 'Tutor (UCS1)' %}
 
 <div class="role flex">
 {% for staffer in tutors %}
 {{ staffer }}
 {% endfor %}
-</div> -->
+</div>
 
 <script src="../assets/darkmode.js"></script>
 <script>
