@@ -1,6 +1,7 @@
 ---
 title: Week 10
 class: Berkeley
+status: Inactive
 ---
 
 Mar 20

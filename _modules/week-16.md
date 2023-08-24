@@ -1,6 +1,7 @@
 ---
 title: Final
 class: Berkeley
+status: Inactive
 ---
 
 May 9

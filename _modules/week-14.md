@@ -1,6 +1,7 @@
 ---
 title: Week 14
 class: Berkeley
+status: Inactive
 ---
 
 Apr 17

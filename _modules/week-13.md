@@ -1,6 +1,7 @@
 ---
 title: Week 13
 class: Berkeley
+status: Inactive
 ---
 Apr 10
 : **32**{: .label} Guest Lecture: DJ Patil (US Chief Data Scientist under the Obama Administration)

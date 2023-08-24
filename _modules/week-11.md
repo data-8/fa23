@@ -1,6 +1,7 @@
 ---
 title: Spring Break
 class: Berkeley
+status: Inactive
 ---
 
 Mar 27

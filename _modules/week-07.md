@@ -1,6 +1,7 @@
 ---
 title: Week 7
 class: Berkeley
+status: Inactive
 ---
 
 Feb 27

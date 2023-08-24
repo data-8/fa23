@@ -1,6 +1,7 @@
 ---
 title: Week 8
 class: Berkeley
+status: Inactive
 ---
 
 Mar 6

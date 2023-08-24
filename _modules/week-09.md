@@ -1,6 +1,7 @@
 ---
 title: Week 9
 class: Berkeley
+status: Inactive
 ---
 
 Mar 13

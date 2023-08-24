@@ -1,6 +1,7 @@
 ---
 title: Week 12
 class: Berkeley
+status: Inactive
 ---
 
 Apr 3
