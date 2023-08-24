@@ -84,7 +84,7 @@ Both options are meant to be great. Self-service lab is designed to appeal to st
 
 Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you are allowed to discuss problems with other students and course staff. See the [Learning Cooperatively](https://www.data8.org/fa23/policies/#learning-cooperatively) section below.
 
-Homeworks will be released on Thursday and due the following Wednesday night.
+Homeworks will be released on Thursday and due the following Wednesday night. Your 2 lowest homework scores will be dropped.
 
 There are 3 projects throughout the semester. A checkpoint must be reached by the following Friday after the project is released, and the whole project is due by the following Friday after the checkpoint.
 
