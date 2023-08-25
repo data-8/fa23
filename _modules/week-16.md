@@ -1,8 +1,8 @@
 ---
 title: Final
 class: Berkeley
-status: Inactive
+status: Inctive
 ---
 
-May 9
+Dec 15
 : **Exam**{: .label .label-exam} Final Exam (3-6 PM)

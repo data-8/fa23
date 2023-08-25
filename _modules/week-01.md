@@ -14,6 +14,7 @@ Aug 23
 
 Aug 25
 : **2 (Adhikari)**{: .label} Cause and Effect
-  <!-- : [Slides]() &#8226; [Video]() -->
+  <!-- : [Slides](https://docs.google.com/presentation/d/1vzRvRYqaZ6HQL8V1Wej1vEzRgFe9pJRYRExipbq3VDE/edit?usp=sharing)  -->
+  <!-- &#8226; [Video]() -->
 : *Reading:* [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
 : **Homework**{: .label .label-homework} Homework 01 (Due 8/30)
