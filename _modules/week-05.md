@@ -1,22 +1,24 @@
 ---
 title: Week 5
 class: Berkeley
-status: Inctive
+status: Active
 ---
 
-Sep 19
-: **11**{: .label} Pivots and Joins
-  : [Slides](https://docs.google.com/presentation/d/1ca3yp2vY_17Ix_TERxNyW7zNEGIywngYHsMl0SJNmkw/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa22&urlpath=tree%2Fmaterials-fa22%2Flec%2Flec11.ipynb&branch=main) &#8226; [Video](https://youtu.be/YrJLkspvsvU)
+Sep 18
+: **11 (DeNero)**{: .label} Pivots and Joins
+  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : *Reading:* [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
-  : [Project 1 Lab Worksheet](https://drive.google.com/file/d/1C52p5voVRXsAiJa_Nz2A0MkSEMRRKFq1/view)
+: **Lab**{: .label .label-lab} Project 1 Work Time
+  : Project 1 Lab Worksheet
 
-Sep 21
-: **12**{: .label} Table Examples
-  : [Slides](https://docs.google.com/presentation/d/1MYTJzyx6OAj68um_M7f9DV2FCEMCb56VWjvMfH5QCus/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa22&urlpath=tree%2Fmaterials-fa22%2Flec%2Flec12.ipynb&branch=main) &#8226; [Video](https://youtu.be/RW_Jw7v7oTU)
+Sep 20
+: **12 (Khan)**{: .label} Table Examples
+  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : *Reading:* [8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)
 
-Sep 23
-: **13**{: .label} Conditionals and Iteration
-  : [Slides](https://docs.google.com/presentation/d/1gqM2nASZWHxO1MXvXIC97HXfiREAj4iqJ8yk4OXaLXQ/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa22&urlpath=tree%2Fmaterials-fa22%2Flec%2Flec13.ipynb&branch=main) &#8226; [Video](https://youtu.be/sB2e0S7ZbCc)
+Sep 22
+: **13 (Khan)**{: .label} Iteration
+  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
 : *Reading:* [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
-: **Homework**{: .label .label-homework} [Homework 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa22&urlpath=tree%2Fmaterials-fa22%2Fmaterials%2Ffa22%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main) (Due 9/28)
+: **Homework**{: .label .label-homework} Homework 05 (Due 9/27)
+
