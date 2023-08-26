@@ -14,7 +14,7 @@ Aug 23
 
 Aug 25
 : **2 (Adhikari)**{: .label} Cause and Effect
-  : [Slides](https://docs.google.com/presentation/d/1vzRvRYqaZ6HQL8V1Wej1vEzRgFe9pJRYRExipbq3VDE/edit?usp=sharing)
-  <!-- &#8226; [Video]() -->
+  : [Slides](https://docs.google.com/presentation/d/1vzRvRYqaZ6HQL8V1Wej1vEzRgFe9pJRYRExipbq3VDE/edit?usp=sharing) &#8226;
+  <!-- [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
 : **Homework**{: .label .label-homework} [Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw01%2Fhw01.ipynb) (Due 8/30)
