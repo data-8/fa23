@@ -7,8 +7,8 @@ status: Active
 Aug 28
 : **3 (DeNero)**{: .label} Tables
   : [Slides](https://docs.google.com/presentation/d/1xm9tnu3HEWBQyvbi_b80b-WNj1uAjA3t5t70W0MY_9c/edit#slide=id.g610d9f86d0_0_5) &#8226;
-[Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec03%2Flec03.ipynb&branch=main) &#8226; 
-<!-- [Video]() -->
+[Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec03%2Flec03.ipynb&branch=main)  
+<!-- &#8226; [Video]() -->
 : *Reading:* [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 : **Lab**{: .label .label-lab} Lab 02: Table Operations (Due 9/1)
   : Lab 02 Worksheet
