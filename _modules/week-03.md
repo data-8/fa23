@@ -11,12 +11,14 @@ Sep 4
 
 Sep 6
 : **06 (Khan)**{: .label} Census
-  <!-- : [Slides]) &#8226; [Demos]) &#8226; [Video]() -->
+  <!-- : [Slides]() &#8226; [Demos]()-->
+   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 
 Sep 8
 : **07 (Khan)**{: .label} Charts
-<!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
+<!-- : [Slides]() &#8226; [Demos]()-->
+   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
 : **Homework**{: .label .label-homework} Homework 03 (Due 9/13)
 

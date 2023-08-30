@@ -6,18 +6,21 @@ status: Active
 
 Oct 9
 : **20 (Sahai)**{: .label} Causality
-  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
+  <!-- : [Slides]() &#8226; [Demos]()-->
+   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)
   : Midterm Lab Worksheet
 
 Oct 11
 : **21 (Course Directors)**{: .label} Examples
-  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
+  <!-- : [Slides]() &#8226; [Demos]()-->
+   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 
 Oct 13
 : **22 (Course Directors)**{: .label} Midterm Review
-  <!-- : [Slides]() &#8226; [Demos]() &#8226; [Video]() -->
+  <!-- : [Slides]() &#8226; [Demos]()-->
+   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : **Exam**{: .label .label-exam} Midterm (7 - 9 PM)
 
 
