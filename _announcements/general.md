@@ -1,11 +1,11 @@
 ---
-title: Week 0 Announcements
-week: 0
-date: 2023-8-16
+title: Week 2 Announcements
+week: 2
+date: 2023-8-28
 ---
 
-* Welcome to Data 8!
-* See you in lecture on Wednesday and Friday
-* Don't forget to attend your first Lab section!
+* Don't forget to finalize your lab section by 11:59 on Tuesday!
+* Homework 01 is due at 11pm on 8/30. Submit it +24 hours early to receive 5 bonus points.
+* Lab 02 is due at 11pm on 9/1.
 
 {: .fs-5 }
