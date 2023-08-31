@@ -23,4 +23,4 @@ Nov 8
 Nov 10
 : **Holiday**{: .label} No Class
 : **Homework**{: .label .label-homework} Homework 11 (Due 11/17)
-: **Project**{: .label .label-project} Project 3: Classifying Movies (Checkpoint 9/17, Due 12/1)
+: **Project**{: .label .label-project} Project 3: Classifying Movies (Checkpoint 11/17, Due 12/1)
