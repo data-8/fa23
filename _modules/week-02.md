@@ -22,4 +22,4 @@ Sep 1
  : [Slides](https://docs.google.com/presentation/d/1UW3dCsQi0j1s4d5Q_MlAb_fTltgwfxKc-AqL41hTX1s/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec05%2Flec05.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
-: **Homework**{: .label .label-homework} Homework 02 (Due 9/6)
+: **Homework**{: .label .label-homework} [Homework 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw02%2Fhw02.ipynb) (Due 9/6)
