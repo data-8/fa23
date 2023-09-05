@@ -6,7 +6,7 @@ status: Active
 
 Sep 4
 : **Holiday**{: .label} No Class
-: **Lab**{: .label .label-lab} Lab 03: Data Types, Creating and Extending Tables (Due 9/8)
+: **Lab**{: .label .label-lab} [Lab 03: Data Types, Creating and Extending Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab03%2Flab03.ipynb) (Due 9/8)
   : Lab 03 Worksheet
 
 Sep 6
