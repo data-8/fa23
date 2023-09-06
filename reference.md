@@ -62,7 +62,7 @@ In the examples in the left column, `np` refers to the NumPy module, as usual. E
 | `min(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Returns the minimum value of an array |
 | `sum(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Returns the sum of the values in an array |
 | `abs(num)`, `np.abs(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Takes the absolute value of a number or each number in an array |
-| `round(num, decimals)`, `np.round(array, decimals)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Rounds a number or an array of numbers to the nearest integer. If `digits` (integer) is included, rounds to that many digits. If `digits` is negative, remove that many digits of precision. |
+| `round(num)`, `np.round(array, decimals)` <br> `round(num, decimals)`, `np.round(array, decimals)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Rounds a number or an array of numbers to the nearest integer. (Optional) If `decimals` (integer) is included, rounds to that many digits. If `decimals` is negative, remove that many digits of precision. |
 | `len(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Returns the length (number of elements) of an array |
 | `make_array(val1, val2, ...)` | [5](https://www.inferentialthinking.com/chapters/05/Sequences.html) | Makes a numpy array with the values passed in |
 | `np.average(array)` <br> `np.mean(array)` | [5.1](https://www.inferentialthinking.com/chapters/05/1/Arrays.html) | Returns the mean value of an array |
