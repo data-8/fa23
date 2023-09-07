@@ -1,12 +1,11 @@
 ---
 title: Week 2 Announcements
-week: 2
-date: 2023-8-28
+week: 3
+date: 2023-9-04
 ---
 
-* Don't forget to finalize your lab section by 11:59 on Tuesday!
-* Homework 01 is due at 11pm on 8/30. Submit it +24 hours early to receive 5 bonus points.
-* Lab 02 is due at 11pm on 9/1.
-* Tutoring section sign-ups will be released [here](https://tutoring.data8.org/) on Thursday morning!
+* Homework 02 is due at 11pm on 9/6. Submit it +24 hours early to receive 5 bonus points.
+* Lab 03 is due at 11pm on 9/8.
+* Tutoring section sign-ups can be found [here](https://tutoring.data8.org/)!
 
 {: .fs-5 }
