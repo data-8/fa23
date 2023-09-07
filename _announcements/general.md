@@ -1,5 +1,5 @@
 ---
-title: Week 2 Announcements
+title: Week 3 Announcements
 week: 3
 date: 2023-9-04
 ---
