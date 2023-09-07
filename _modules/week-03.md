@@ -11,8 +11,7 @@ Sep 4
 
 Sep 6
 : **06 (Khan)**{: .label} Census
-  : [Slides](https://docs.google.com/presentation/d/1T2XmShhk1cGlpOgyEOS68-LiOuAMhzk17Dg9lNjMOhU/edit#slide=id.g6e7a646a84_0_205) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec06%2Flec06.ipynb&branch=main)
-   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+  : [Slides](https://docs.google.com/presentation/d/1T2XmShhk1cGlpOgyEOS68-LiOuAMhzk17Dg9lNjMOhU/edit#slide=id.g6e7a646a84_0_205) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec06%2Flec06.ipynb&branch=main) &#8226; [Video] (https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
 : *Reading:* [6.3](https://inferentialthinking.com/chapters/06/3/Example_Population_Trends.html), [6.4](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.html)
 
 Sep 8
