@@ -23,5 +23,5 @@ Sep 15
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html)
 : **Homework**{: .label .label-homework} [Homework 04](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw04%2Fhw04.ipynb) (Due 9/20)
-: **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 9/29, Checkpoint 9/22)
+: **Project**{: .label .label-project} [Project 1: World Population and Poverty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fproject%2Fproject1%2Fproject1.ipynb) (Due 9/29, Checkpoint 9/22)
 
