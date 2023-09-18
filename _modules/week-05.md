@@ -6,7 +6,7 @@ status: Active
 
 Sep 18
 : **11 (DeNero)**{: .label} Pivots and Joins
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/1L6ovt4QjI2UuQHBkNMEPr896uMC-1VDfY5d5w9XA3DA/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec11%2Flec11.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Lab**{: .label .label-lab} Project 1 Work Time
