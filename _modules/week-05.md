@@ -13,8 +13,7 @@ Sep 18
 
 Sep 20
 : **12 (Khan)**{: .label} Table Examples
-  : [Slides](https://docs.google.com/presentation/d/1OqedHX9_WbF-d0B6FFiUM5ZLE4MIjpeBBCROFusBjhw/edit#slide=id.g15788226f3a_0_29) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec12%2Flec12.ipynb&branch=main) &#8226; [Empty Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec12%2Flec12-empty.ipynb&branch=main)
-   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+  : [Slides](https://docs.google.com/presentation/d/1OqedHX9_WbF-d0B6FFiUM5ZLE4MIjpeBBCROFusBjhw/edit#slide=id.g15788226f3a_0_29) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec12%2Flec12.ipynb&branch=main) &#8226; [Empty Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec12%2Flec12-empty.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
 : *Reading:* [8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)
 
 Sep 22
