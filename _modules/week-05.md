@@ -18,7 +18,7 @@ Sep 20
 
 Sep 22
 : **13 (Khan)**{: .label} Iteration
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/14flQKUnFmPdr4WjmnjShDqgIIGONe7yrLPhOuje8Xsw/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec13%2Flec13.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 : **Homework**{: .label .label-homework} [Homework 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw05%2Fhw05.ipynb) (Due 9/27)
