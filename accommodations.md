@@ -19,7 +19,7 @@ description: >-
 
 ## Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 FA23 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLSdPY_gOcPqEp4ccDxNTHpj0e6BiM7WFhK1t7tVmzFEJWNwfbg/viewform?usp=sf_link) form. Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads.
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 FA23 Extension Request](https://docs.google.com/forms/d/e/1FAIpQLSdPY_gOcPqEp4ccDxNTHpj0e6BiM7WFhK1t7tVmzFEJWNwfbg/viewform?usp=sf_link) form. Submissions to this form will be visible only to the Course Directors and Grading Leads.
 
 ## DSP Accommodations
 
