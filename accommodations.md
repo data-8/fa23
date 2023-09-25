@@ -31,7 +31,7 @@ If you’re not enrolled in DSP, or are in the process of being onboarded by DSP
 
 All DSP and accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and selected Lead GSIs.
 
-For any DSP and accommodations-related communications, please reach out to data8@berkeley.edu and the DSP Lead will get back to you. This inbox will be visible to future members of course staff, so if you ever have a communication that you wish to remain private, let us know and we can delete the email exchange once the conversation is resolved.
+For any DSP and accommodations-related communications, please reach out to data8@berkeley.edu. This inbox will be visible to future members of course staff, so if you ever have a communication that you wish to remain private, let us know and we can delete the email exchange once the conversation is resolved.
 
 ## Wellness Resources
 
