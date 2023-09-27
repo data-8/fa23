@@ -13,8 +13,7 @@ Sep 25
 
 Sep 27
 : **15 (Khan)**{: .label} Sampling
-  : [Slides](https://docs.google.com/presentation/d/1pd6WFez1q1tIknWBZnPJjm3wpkpdUqkXC3BIwR3e7PA/edit#slide=id.g7e2e2e5089_0_134) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec15%2Flec15.ipynb&branch=main)
-   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+  : [Slides](https://docs.google.com/presentation/d/1pd6WFez1q1tIknWBZnPJjm3wpkpdUqkXC3BIwR3e7PA/edit#slide=id.g7e2e2e5089_0_134) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec15%2Flec15.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
 : *Reading:* [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
 
 Sep 29
