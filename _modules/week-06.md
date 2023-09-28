@@ -21,4 +21,4 @@ Sep 29
   <!-- : [Slides]() &#8226; [Demos]()-->
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
-: **Homework**{: .label .label-homework} Homework 06 (Due 10/4)
+: **Homework**{: .label .label-homework} [Homework 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw06%2Fhw06.ipynb) (Due 10/4)
