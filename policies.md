@@ -136,6 +136,10 @@ Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer
 
 We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdPY_gOcPqEp4ccDxNTHpj0e6BiM7WFhK1t7tVmzFEJWNwfbg/viewform?usp=sf_link). Submissions to the form will be visible only to the course instructors, the DSP Lead and Grading Leads.
 
+<u>**Please read the entirety of the form and its instructions before/while submitting a regrade to reduce confusion**</u>. Extension requests with reasons pertaining to: *busy weeks, midterms, and projects* will be approved if submitted **3 days in advance of the assignment’s due date**, as these situations should be evident *well in advance*.
+
+This reduces the overload of extension requests on the dates of the assignment, and ensures students have more time to plan out their workload.
+
 ### Accommodations
 
 We will provide appropriate accommodations to all students enrolled in Berkeley's [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To ensure that you receive the appropriate accommodations, have your DSP specialist submit a letter confirming your status and accommodations.
