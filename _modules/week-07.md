@@ -6,7 +6,7 @@ status: Active
 
 Oct 2
 : **17 (Sahai)**{: .label} Comparing Distributions
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/1CClMgGxiB1hHSkqsI9s3YGRw-nvdUCB0E1H5C5vzHGk/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec17%2Flec17.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)
 : **Lab**{: .label .label-lab} Lab 06: Assessing Models (Due 10/6)
