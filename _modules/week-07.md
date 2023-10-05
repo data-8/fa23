@@ -14,8 +14,7 @@ Oct 2
 
 Oct 4
 : **18 (Khan)**{: .label} Decisions and Uncertainty
-  : [Slides](https://docs.google.com/presentation/d/1CcFJJQD3OJp8DtECaG_VC8ivC5vMCWt-9viBZXQ9b0E/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec18%2Flec18.ipynb&branch=main)
-   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+  : [Slides](https://docs.google.com/presentation/d/1CcFJJQD3OJp8DtECaG_VC8ivC5vMCWt-9viBZXQ9b0E/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec18%2Flec18.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) 
 : *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 
 Oct 6
