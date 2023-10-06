@@ -19,7 +19,7 @@ Oct 4
 
 Oct 6
 : **19 (Sahai)**{: .label} A/B Testing
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/1JZ4vOyxu-JQY7D7yikllFO91NJbF9ebm8JpBTMkrKBU/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec19%2Flec19.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 : **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw07%2Fhw07.ipynb) (Due 10/11)
