@@ -73,7 +73,7 @@ In the examples in the left column, `np` refers to the NumPy module, as usual. E
 | `array.item(index)` | [5.3](https://www.inferentialthinking.com/chapters/05/3/More_On_Arrays.html) | Returns the i-th item in an array (remember Python indices start at 0!) |
 | `np.random.choice(array, n)` <br> `np.random.choice(array)` | [9](https://www.inferentialthinking.com/chapters/09/Randomness.html) | Picks one (by default) or some number (`n`) of items from `array` at random with replacement. |
 | `np.count_nonzero(array)` | [9](https://www.inferentialthinking.com/chapters/09/Randomness.html) | Returns the number of non-zero (or `True`) elements in an array. |
-| `np.append(array, item)` | [9.2](https://www.inferentialthinking.com/chapters/09/2/Iteration.html) | Returns a copy of the input array with `item` (must be the same type as the other entries in the array) appended to the end. |
+| `np.append(array, item)` | [9.2](https://www.inferentialthinking.com/chapters/09/2/Iteration.html) | Returns a copy of the input array with `item` appended to the end. |
 | `percentile(percentile, array)` | [13.1](https://www.inferentialthinking.com/chapters/13/1/Percentiles.html) | Returns the corresponding percentile of an array. |
 
 ## `Table.where` Predicates
