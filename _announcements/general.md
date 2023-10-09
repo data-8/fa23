@@ -1,7 +1,7 @@
 ---
-title: Week 7 Announcements
-week: 7
-date: 2023-10-02
+title: Week 8 Announcements
+week: 8
+date: 2023-10-09
 ---
 
 * Link to Week 8 [here](https://www.data8.org/fa23/#week-8)
