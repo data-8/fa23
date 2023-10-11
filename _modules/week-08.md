@@ -12,7 +12,7 @@ Oct 9
 
 Oct 11
 : **21 (Noah Tran)**{: .label} Examples
- : [Slides](https://docs.google.com/presentation/d/1VefdXBtKChxmqJqYoenPXCse8npxK5WkIkr9Ssg8-rQ/edit#slide=id.gf59a8db61b_3_28) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec21%2Flec21.ipynb&branch=main)
+  : [Slides](https://docs.google.com/presentation/d/1VefdXBtKChxmqJqYoenPXCse8npxK5WkIkr9Ssg8-rQ/edit#slide=id.gf59a8db61b_3_28) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec21%2Flec21.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 
