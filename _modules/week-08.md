@@ -17,7 +17,7 @@ Oct 11
 
 Oct 13
 : **22 (Sarah Song)**{: .label} Midterm Review
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/1Ns8EVPMecj1dQyKqtER2rzu_1_PNQn2wwLSJ7xYOGAk/edit#slide=id.gf8f985695e_7_28) &#8226;
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : **Exam**{: .label .label-exam} Midterm (7 - 9 PM)
 
