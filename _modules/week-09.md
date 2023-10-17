@@ -8,8 +8,8 @@ Oct 16
 : **23 (Adhikari)**{: .label} Confidence Intervals
   : [Slides](https://docs.google.com/presentation/d/1PRwG2drZqF3XJSBA0XYHPc7jkYsbxut4Usjklck7AEE/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec23%2Fdata8_fa23_lec23.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
 : *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
-: **Lab**{: .label .label-lab} Lab 07: A/B Testing (Due 10/20)
-  : Lab 07 Worksheet
+: **Lab**{: .label .label-lab} [Lab 07: A/B Testing](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flab%2Flab07%2Flab07.ipynb) (Due 10/20)
+  : [Lab 07 Worksheet](https://drive.google.com/file/d/1XfpSel2iWdnUMp_g5ohpHLPl4rrqllB_/view?usp=drive_link)
 
 Oct 18
 : **24 (Khan)**{: .label} Interpreting Confidence
