@@ -13,7 +13,7 @@ Oct 16
 
 Oct 18
 : **24 (Khan)**{: .label} Interpreting Confidence
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/1VrEo8J8gGNDpUhZZCYM99qIPXhA4BtHgoOrw84GwCas/edit?usp=sharing) &#8226; [Demos (empty)](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec24%2Flec24_empty.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 
