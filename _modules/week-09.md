@@ -22,4 +22,4 @@ Oct 20
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
   : Supplemental Videos: [SU](https://youtu.be/5R7D1a8ek-w), [Chebyshev](https://youtu.be/Cl01jt8e0JI) 
-: **Homework**{: .label .label-homework} Homework 08 (Due 10/25)
+: **Homework**{: .label .label-homework} [Homework 08](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw08%2Fhw08.ipynb) (Due 10/25)
