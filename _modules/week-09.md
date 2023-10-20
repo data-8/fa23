@@ -18,7 +18,7 @@ Oct 18
 
 Oct 20
 : **25 (Khan)**{: .label} Center and Spread
-  <!-- : [Slides]() &#8226; [Demos]()-->
+  : [Slides](https://docs.google.com/presentation/d/1HEwUWs8rVSisDGmKfBjkFk4xbgBx0amFLDyVTppmmmI/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec25%2Flec25.ipynb&branch=main)
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
   : Supplemental Videos: [SU](https://youtu.be/5R7D1a8ek-w), [Chebyshev](https://youtu.be/Cl01jt8e0JI) 
