@@ -13,7 +13,8 @@ Oct 23
 
 Oct 25
 : **27 (Sahai)**{: .label} Sample Means
-  : [Slides](https://docs.google.com/presentation/d/1wBWz5nS1EHo0STSW2X4Wk4Z2AAfrWeQKxYHev-Wx0bE/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec27%2Flec27.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985)
+  : [Slides](https://docs.google.com/presentation/d/1wBWz5nS1EHo0STSW2X4Wk4Z2AAfrWeQKxYHev-Wx0bE/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec27%2Flec27.ipynb&branch=main)
+   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
 
 Oct 27
@@ -21,5 +22,5 @@ Oct 27
   <!-- : [Slides]() &#8226; [Demos]()-->
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
-: **Homework**{: .label .label-homework} Homework 09 (Due 11/1)
+: **Homework**{: .label .label-homework} [Homework 09](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw09%2Fhw09.ipynb) (Due 11/1)
 : **Project**{: .label .label-project} Project 2: Climate (Due 11/10, Checkpoint 11/3)
