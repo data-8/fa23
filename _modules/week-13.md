@@ -22,3 +22,4 @@ Nov 17
 : **36 (Wagner)**{: .label} Privacy (Guest)
   <!-- : [Slides]() &#8226; [Demos]()-->
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+: **Homework**{: .label .label-homework} Homework 12 (Due 11/29)
