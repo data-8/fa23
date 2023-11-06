@@ -19,7 +19,5 @@ Nov 15
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 
 Nov 17
-: **36 (Wagner)**{: .label} Privacy (Guest)
-  <!-- : [Slides]() &#8226; [Demos]()-->
-   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+: **36**{: .label} No Lecture
 : **Homework**{: .label .label-homework} Homework 12 (Due 11/29)
