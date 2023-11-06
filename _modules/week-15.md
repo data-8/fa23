@@ -8,6 +8,8 @@ Nov 27
 : **37 (Adhikari)**{: .label} Case Study: Health
   <!-- : [Slides]() &#8226; [Demos]()-->
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+: **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 12/1)
+  : Lab 10 Worksheet
 
 Nov 29
 : **38 (Sahai)**{: .label} Case Study: CV
