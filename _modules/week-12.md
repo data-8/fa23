@@ -13,7 +13,6 @@ Nov 6
 
 Nov 8
 : **33 (Khan)**{: .label} Regression Inference
-: **33**{: .label} Regression Inference
   <!-- : [Slides]() &#8226; [Demos]()-->
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : *Reading:* [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
