@@ -18,4 +18,4 @@ Nov 8
 
 Nov 10
 : **Holiday**{: .label} No Class
-: **Homework**{: .label .label-homework} Homework 11 (Due 11/15)
+: **Homework**{: .label .label-homework} [Homework 11](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw11%2Fhw11.ipynb) (Due 11/15)
