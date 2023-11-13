@@ -20,5 +20,6 @@ Nov 15
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 
 Nov 17
-: **36**{: .label} No Lecture
+: **36**{: .label} Privacy
+  : [Video](https://www.youtube.com/watch?v=tmk-bnQrtik)
 : **Homework**{: .label .label-homework} Homework 12 (Due 11/29)
