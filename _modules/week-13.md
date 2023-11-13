@@ -21,5 +21,5 @@ Nov 15
 
 Nov 17
 : **36**{: .label} Privacy
-  : [Video](https://www.youtube.com/watch?v=tmk-bnQrtik)
+  : [Slides](https://drive.google.com/file/d/1u82AhbGD3B1tjVFgOe_D3qSpD2ZJBFJf/view?usp=sharing) &#8226; [Video](https://www.youtube.com/watch?v=tmk-bnQrtik)
 : **Homework**{: .label .label-homework} Homework 12 (Due 11/29)
