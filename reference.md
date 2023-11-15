@@ -63,7 +63,7 @@ In the examples in the left column, `np` refers to the NumPy module, as usual. E
 | `sum(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Returns the sum of the values in an array |
 | `abs(num)`, `np.abs(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Takes the absolute value of a number or each number in an array |
 | `round(num)`, `np.round(array)` <br> `round(num, decimals)`, `np.round(array, decimals)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Rounds a number or an array of numbers to the nearest integer. If `decimals` (integer) is included, rounds to that many digits. If `decimals` is negative, remove that many digits of precision. |
-| `len(array)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Returns the length (number of elements) of an array |
+| `len(array)`, `len(string)` | [3.3](https://www.inferentialthinking.com/chapters/03/3/Calls.html) | Returns the length (number of elements) of an array. If a string (`str`) is passed in instead, returns the number of characters in the string. |
 | `make_array(val1, val2, ...)` | [5](https://www.inferentialthinking.com/chapters/05/Sequences.html) | Makes a numpy array with the values passed in |
 | `np.average(array)` <br> `np.mean(array)` | [5.1](https://www.inferentialthinking.com/chapters/05/1/Arrays.html) | Returns the mean value of an array |
 | `np.std(array)` | [14.2](https://www.inferentialthinking.com/chapters/14/2/Variability.html#Standard-Deviation) | Returns the standard deviation of an array |
