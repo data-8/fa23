@@ -20,4 +20,4 @@ Nov 15
 Nov 17
 : **36**{: .label} Privacy *(Pre-recorded)*
   : [Slides](https://drive.google.com/file/d/1u82AhbGD3B1tjVFgOe_D3qSpD2ZJBFJf/view?usp=sharing) &#8226; [Video](https://www.youtube.com/watch?v=tmk-bnQrtik)
-: **Homework**{: .label .label-homework} Homework 12 (Due 11/29)
+: **Homework**{: .label .label-homework} [Homework 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Fhw%2Fhw12%2Fhw12.ipynb) (Due 11/29)
