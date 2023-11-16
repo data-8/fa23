@@ -14,8 +14,7 @@ Nov 13
 
 Nov 15
 : **35 (Sahai)**{: .label} Classifiers
-  : [Slides](https://docs.google.com/presentation/d/1EdcbHHZ07lZzaKSmCU-qDid0KJFNwPQEj-slY4crWtw/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec35%2Flec35.ipynb&branch=main)
-   <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
+  : [Slides](https://docs.google.com/presentation/d/1EdcbHHZ07lZzaKSmCU-qDid0KJFNwPQEj-slY4crWtw/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-fa23&urlpath=tree%2Fmaterials-fa23%2Flec%2Flec35%2Flec35.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) 
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 
 Nov 17
