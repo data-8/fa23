@@ -166,7 +166,7 @@ Make a serious attempt at every assignment yourself. If you get stuck, read the 
 
 In addition, posting course content such as homeworks, projects, and exams on any 3rd party websites or submitting your own answers on outside sites/forums is considered academic misconduct.
 
-You are also not permitted to turn in answers or code that you have obtained from others. Not only does such copying count as academic misconduct, it circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have in your possession solutions from another student or another semester.
+You are also not permitted to turn in answers or code that you have obtained from others or online sources. Not only does such copying count as academic misconduct, it circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have in your possession solutions from another student or another semester.
 
 Please read Berkeley's [Code of Conduct](https://sa.berkeley.edu/code-of-conduct) carefully. Penalties for academic misconduct in Data 8 are severe and include reporting to the [Center for Student Conduct](https://sa.berkeley.edu/conduct). They might also include a F in the course or even dismissal from the university. It's just not worth it!
 
