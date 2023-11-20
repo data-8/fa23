@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 27
-: **37 (Adhikari)**{: .label} Case Study: Health
+: **37 (Adhikari)**{: .label} Inference Review
   <!-- : [Slides]() &#8226; [Demos]()-->
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 12/1)
