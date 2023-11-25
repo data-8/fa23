@@ -63,7 +63,7 @@ Exams and practice exams from previous semesters can be found below. These exams
 
 **Finals:**
 * [Summer 2023 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-su23-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-su23-final-sols.pdf)
-* [Spring 2023 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-final-solutions.pdf)
+* [Spring 2023 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp23-final-sol.pdf)
 * [Fall 2022 Final](https://drive.google.com/file/d/1lMEUafOXIJvWw0Fh_zo2XeE44EMAhC9m/view?usp=sharing) / [Solutions](https://drive.google.com/file/d/1eiJExTi-4dHQry6aQ1L_a4zRWeJtbkzM/view?usp=sharing)
 * [Spring 2022 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-final-sols.pdf)
 * [Fall 2021 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa21-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa21-final-solns.pdf)
