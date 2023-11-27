@@ -1,7 +1,7 @@
 ---
-title: Week 14 Announcements
-week: 14
-date: 2023-11-20
+title: Week 15 Announcements
+week: 15
+date: 2023-11-27
 ---
 
 * Link to Week 15 [here](https://www.data8.org/fa23/#week-15)
