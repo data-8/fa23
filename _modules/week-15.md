@@ -5,8 +5,8 @@ status: Active
 ---
 
 Nov 27
-: **38 (Adhikari)**{: .label} Inference Review
-  <!-- : [Slides]() &#8226; [Demos]()-->
+: **38 (Adhikari)**{: .label} Course Overview & Inference Review
+  : [Course Overview Slides](https://docs.google.com/presentation/d/1YkGrZ37EzOkR-sHfdhIfI6Tp_KcahQigDaujNwJwgt8/edit?usp=sharing) &#8226;
    <!-- &#8226; [Video](https://bcourses.berkeley.edu/courses/1528314/external_tools/78985) -->
 : **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 12/1)
   : Lab 10 Worksheet
