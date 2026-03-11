@@ -86,3 +86,9 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+callouts_level: quiet # or loud
+callouts:
+  warning:
+    title: Warning
+    color: red
